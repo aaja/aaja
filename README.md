@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm aaja rtsu 💻
 
-<img src="https://github.com/aaja/aaja/background.jpg">
+<img src="https://aaja.gitee.io/picture/github/aaja/20200719001.jpg">
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Java(Springboot, SpringCloud), MySQL and Linux. 
 
 
