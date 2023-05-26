@@ -20,5 +20,5 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 
 ## Find me around the web 🌎:
-- Learning in public on <a href="https://www.yuque.com/aaja">yueque</a> ✍🏾
-- Sharing updates on <a href="https://gitee.com/aaja/">Gitee</a> 🏓
+- Learning in public on <a href="https://www.yuque.com">yueque</a> ✍🏾
+- Sharing updates on <a href="https://gitee.com">Gitee</a> 🏓
